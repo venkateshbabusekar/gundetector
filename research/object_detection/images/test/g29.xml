@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GunTest</folder>
+	<filename>g29.jpg</filename>
+	<path>C:\Users\babus\Downloads\GunTest\g29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>309</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>22</ymin>
+			<xmax>297</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

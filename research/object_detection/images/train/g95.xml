@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GUN</folder>
+	<filename>g95.jpg</filename>
+	<path>C:\Users\babus\Downloads\GUN\g95.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>758</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>30</ymin>
+			<xmax>733</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

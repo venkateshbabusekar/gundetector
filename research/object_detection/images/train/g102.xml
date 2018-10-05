@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>GUN</folder>
+	<filename>g102.jpg</filename>
+	<path>C:\Users\babus\Downloads\GUN\g102.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>95</ymin>
+			<xmax>174</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>
